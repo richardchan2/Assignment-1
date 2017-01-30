@@ -80,9 +80,6 @@ header li:first-child:after {
 	margin: 10px;
 }
 
-header li a:hover {
-	background: #DEDEDE;
-}
 
 footer {
 	clear: both;
